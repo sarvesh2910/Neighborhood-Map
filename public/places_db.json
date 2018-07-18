@@ -1,0 +1,29 @@
+{
+  "places": [
+    {
+      "name": "Aga Khan Palace",
+      "lat": 18.552494,
+      "lng": 73.901456
+    },
+    {
+      "name": "The Poona Club Golf Course",
+      "lat": 18.554326,
+      "lng": 73.887037
+    },
+    {
+      "name": " Malaka Spice",
+      "lat":18.537425,
+      "lng": 73.897561
+    },
+    {
+      "name": "The Westin Pune Koregaon Park",
+      "lat": 18.539221,
+      "lng": 73.906261
+    },
+    {
+      "name": "German Bakery",
+      "lat": 18.539764,
+      "lng": 73.887359
+    }
+  ]
+}

@@ -290,10 +290,8 @@ export default class App extends Component {
                             .then((res1) => {
                                 res1.json()
                                     .then(data => {
-                                        console.log(data);
                                         try {
                                             let detailedData = data.response.venue;
-                                            console.log(detailedData);
                                             this.state.infoWindow.setContent(`<h4>${marker.title}</h4> <br>Ratings : ${detailedData.rating}<br>Likes : ${detailedData.likes.count}`)
                                         }
                                         catch (e) {
